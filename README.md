@@ -44,3 +44,5 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+
+[![Sanprasirt's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/sanprasirt/github-readme-stats)
