@@ -45,6 +45,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[![Sanprasirt's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanprasirt)](https://github.com/sanprasirt/github-readme-stats)
+[![Sanprasirt's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanprasirt&show_icons=true&theme=radical)](https://github.com/sanprasirt/github-readme-stats)
 <br />
 [![Sanprasirt's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sanprasirt)](https://github.com/sanprasirt/github-readme-stats)
